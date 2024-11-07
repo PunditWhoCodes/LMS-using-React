@@ -32,7 +32,7 @@ const Footer = () => {
     <footer id="footer" className="bg-[#2c3e50] text-[#ecf0f1] pt-16">
       <div className="w-[90%] max-w-7xl mx-auto grid grid-cols-1 md:grid-cols-3 gap-8">
         <div>
-          <h3 className="text-2xl font-semibold mb-4">Arshita Library Management</h3>
+          <h3 className="text-2xl font-semibold mb-4">Nawal Library Management</h3>
           <p className="mb-4">Efficiently manage your library with our cutting-edge system.</p>
           <div className="flex gap-4">
             {socialLinks.map(({ Icon, href }, index) => (
@@ -96,7 +96,7 @@ const Footer = () => {
 
       <div className="mt-8 py-4 bg-[#34495e] text-center">
         <div className="w-[90%] max-w-7xl mx-auto">
-          <p>&copy; 2024 Arshita Library Management - All rights reserved | Designed By: Arshita</p>
+          <p>&copy; 2024 Nawal Library Management - All rights reserved | Designed By: Nawal</p>
         </div>
       </div>
     </footer>

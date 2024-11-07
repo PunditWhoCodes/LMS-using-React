@@ -6,12 +6,12 @@ const ProfileSection = () => (
       <h2 className="text-3xl font-semibold text-center mb-12">Profile</h2>
       <div className="flex flex-col md:flex-row items-center gap-8 max-w-3xl mx-auto">
         <img 
-          src="https://plus.unsplash.com/premium_photo-1663099789341-26b599454019?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8eW91bmclMjBzb2Z0d2FyZSUyMGRldmVsb3BlciUyMGdpcmxzfGVufDB8fDB8fHww"
+          src="https://plus.unsplash.com/premium_photo-1661371243525-d02768a7feee?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8c29mdHdhcmUlMjBkZXZlbG9wZXJ8ZW58MHx8MHx8fDA%3D"
           alt="Profile" 
           className="w-40 h-40 rounded-full object-cover shadow-lg"
         />
         <div className="text-center md:text-left">
-          <h3 className="text-2xl font-semibold mb-2">Arshita</h3>
+          <h3 className="text-2xl font-semibold mb-2">Nawal Rai Chetan</h3>
           <p className="text-gray-600 mb-4">Software Developer</p>
           <p className="text-gray-700 leading-relaxed">
             Passionate about books and technology. Developed this library management 
